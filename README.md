@@ -25,7 +25,7 @@ I'm passionate about building **scalable, high-performance applications** and cr
 
 ## 📌 Featured Projects  
 ### 🔹 **AI-Based Skin Disease Classification System**  
-- 🏥 Developed a **deep learning-powered medical imaging analysis system** for diagnosing skin diseases.  
+- 🏥 Developing a **deep learning-powered medical imaging analysis system** for diagnosing skin diseases.  
 
 ### 🔹 **Custom Appraisal Module for Odoo**  
 - 📊 Designed and implemented a **performance evaluation system** to automate employee appraisals.  
