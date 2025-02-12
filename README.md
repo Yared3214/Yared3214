@@ -38,7 +38,7 @@ I'm passionate about building **scalable, high-performance applications** and cr
 ## 📫 Let's Connect!  
 <p align="center">
   <a href="https://portfolio-steel-pi-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white"></a>
-  <a href="your-linkedin-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/yared-bitewlign-6764ab263"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
